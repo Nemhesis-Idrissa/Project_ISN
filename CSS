@@ -1,0 +1,58 @@
+body{
+
+	background-color: grey; 
+	background-image: url("https://www.sampcgames.com/wp-content/uploads/2017/10/CRYSIS-4-free-download-pc-game-full-version-5.jpg");
+	background-repeat: no-repeat; 
+	background-size: 200%; 
+	
+
+}
+
+.h{
+	
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/496902697251963621/CE5BBD781C324CA29F5F436EF788B895BF716763/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true "); 
+	text-align: center; 
+	color: white; 
+	width: 50%; 
+	transform: translate(300px, 50px); 
+	padding: 16px; 
+	border-radius: 10px 20px; 
+	background-color: green; 
+	
+			
+}
+
+
+li{
+	
+	display: block; 
+	width: 100%; 
+	list-style: none;
+	background-color: black;
+	color: white; 
+	overflow: hidden;
+	padding: 16px; 
+	
+
+}
+
+li a{
+ 
+	text-decoration: none; 	
+	
+}
+
+li{
+	
+	float: left; 
+	
+}
+
+li a:hover{
+
+	background-color: green; 
+
+}
+
+	
+	
