@@ -8,13 +8,14 @@ body{
 
 }
 
+
+
 .h{
 	
 	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/496902697251963621/CE5BBD781C324CA29F5F436EF788B895BF716763/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true "); 
 	text-align: center; 
 	color: white; 
-	width: 50%; 
-	transform: translate(300px, 50px); 
+	
 	padding: 16px; 
 	border-radius: 10px 20px; 
 	background-color: green; 
@@ -22,37 +23,48 @@ body{
 			
 }
 
+ 
 
-li{
+ 
+ul{
 	
-	display: block; 
+	 
 	width: 100%; 
 	list-style: none;
 	background-color: black;
 	color: white; 
 	overflow: hidden;
-	padding: 16px; 
+	height: 100px;
+	transform: translate(-20px, 30px); 
+	border-radius: 0px 0px 10px 10px; 
 	
 
 }
 
 li a{
  
-	text-decoration: none; 	
+	display: block; 
+	text-decoration: none; 
+	color: white; 
+	padding: 16px; 
+	margin: 0; 
+
+	
 	
 }
 
 li{
-	
+
 	float: left; 
-	
+
 }
+
 
 li a:hover{
 
 	background-color: green; 
 
+
 }
 
-	
-	
+
